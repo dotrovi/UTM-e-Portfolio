@@ -6,7 +6,7 @@
     <p>assemble and disassemble the PC from opening the front cover to removing the fan or cooler of the CPU.</p>
     <p>This session would have been more enjoyable if it also includes other components including GPUs and M.2 SSDs.</p>
     <br>
-    <img src=""/>
+    <img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/PC%20Assemble%20(Lab)/PCAssemble.jpg"/>
     <br>
     <p>Having a quiz at the end of the session is perfect to recap the session of PC assembly.</p>
     <p>I had fun throughout this activity!</p>
