@@ -23,4 +23,14 @@ works. Their tech stack includes:
 <img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/laravel.png" width="30" height="30" border="10"/>
 <img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/vue.png" width="30" height="30" border="10"/>
 <img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/inertia.png" width="30" height="30" border="10"/>
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/typescriptImag.png" width="30" height="30" border="10"/>
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/sassImage.png" width="30" height="30" border="10"/>
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/mySQLimage.png" width="30" height="30" border="10"/>
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/redisImage.png" width="30" height="30" border="10"/>
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/sqliteImage.png" width="30" height="30" border="10"/>
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/MongoDBImage.png" width="30" height="30" border="10"/>
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/UbuntuImage.png" width="30" height="30" border="10"/>
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/nginxImage.png" width="30" height="30" border="10"/>
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/DigitalOceanImage.png" width="30" height="30" border="10"/>
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/cloudflareImage.png" width="30" height="30" border="10"/>
 </p>
