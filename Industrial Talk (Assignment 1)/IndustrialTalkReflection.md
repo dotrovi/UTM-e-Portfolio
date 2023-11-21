@@ -12,7 +12,7 @@ On November 14th, 2023, I took part in an online industrial talk by Clarity Tech
 were the speakers of this talk, arranged by Dr. Muhammad Iqbal Tariq Idris.
 
 <p align="center">
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/webexIndustrialTalk.jpg"/> Promotional Poster for the Industrial Talk by UTM
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/webexIndustrialTalk.jpg" width="100" height="100" /> Promotional Poster for the Industrial Talk by UTM
 </p>
 
 ### CONTENTS OF THE TALK
