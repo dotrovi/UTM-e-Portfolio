@@ -9,3 +9,11 @@ Junior Web/API Developer were the speakers of this talk, arranged by Dr. Muhamma
 <p align="center">
 <img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/webexIndustrialTalk.jpg"/> Promotional Poster for the Industrial Talk by UTM
 </p>
+
+# CONTENTS OF THE TALK
+
+Yee Soon Tuck, the Chief Technology Officer of Clarity Techworks for over 33 years started off the industrial 
+talk by explaining about their fintech company. One of their producst is Rapidz Pay, which is a crypto payment
+and digital assets ecosystem available on Google Play and the App Store. They practice Scrum methodology for their
+works. Their tech stack includes:
+
