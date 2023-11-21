@@ -1,4 +1,4 @@
-## INDUSTRIAL TALK (ASSIGNMENT 1)
+# INDUSTRIAL TALK (ASSIGNMENT 1)
 
 On November 14th, 2023, I took part in an online industrial talk by Clarity Techworks.
 Yee Soon Tuck, the Chief Technology Officer, Mohamad Noor Ridwan bin Musa, Junior Android
@@ -10,7 +10,7 @@ Junior Web/API Developer were the speakers of this talk, arranged by Dr. Muhamma
 <img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/webexIndustrialTalk.jpg"/> Promotional Poster for the Industrial Talk by UTM
 </p>
 
-# CONTENTS OF THE TALK
+### CONTENTS OF THE TALK
 
 Yee Soon Tuck, the Chief Technology Officer of Clarity Techworks for over 33 years started off the industrial 
 talk by explaining about their fintech company. One of their producst is Rapidz Pay, which is a crypto payment
