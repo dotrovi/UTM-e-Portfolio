@@ -71,7 +71,7 @@ Clarity Techworks and advice to aspiring future engineers if they want to succee
 >> if we have any query regarding the project. We should also do less mistakes and own up to it if it happens.
 
 
-### Reflection
+### REFLECTION
 Throughout this online industrial talk, I learned a lot especially the wide range of jobs when it comes to sofiware
 engineering. Be it as an Android Developer or Web/API Developer, as long as I work hard and focus on my studies,
 I can also achieve success just like the junior employees of Clarity Techworks. The most important aspect is that
