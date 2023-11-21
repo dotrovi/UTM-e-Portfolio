@@ -76,3 +76,9 @@ engineering. Be it as an Android Developer or Web/API Developer, as long as I wo
 I can also achieve success just like the junior employees of Clarity Techworks. The most important aspect is that
 I must be passionate about all things computer science, and to improve my skills overtime throughout my journey
 in UTM.
+
+
+## POSTER (ASSIGNMENT 1)
+<p align="center">
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Poster%20Group%207%20Assignment%201.jpg"/>
+</p>
