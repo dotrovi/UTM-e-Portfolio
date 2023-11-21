@@ -7,5 +7,5 @@ Junior QA Analyst, Saiful Habib Danial, Junior Web/API Developer, and Izzah Fati
 Junior Web/API Developer were the speakers of this talk, arranged by Dr. Muhammad Iqbal Tariq Idris.
 
 <p align="center">
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/webexIndustrialTalk.jpg"/>
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/webexIndustrialTalk.jpg"/> Promotional Poster for the Industrial Talk by UTM
 </p>
