@@ -17,7 +17,7 @@ Through numerous discussions and brainstorming sessions whether it was online or
 
 However, there are some things that did not go as planned. For starters, we did not share our own progress on the project each week. To prevent such thing to happen, having a spreadsheet where we can track our progress makes it better so that we know that each member is doing their tasks as planned. At least in the end, we managed to submit our complete report on time.
 
-I look forward to presenting our prototype later on and show how impactful it is to society. <3
+I look forward to presenting our prototype later on and show how impactful it is to society!
 <br><br>
 
 
