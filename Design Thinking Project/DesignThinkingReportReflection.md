@@ -1,4 +1,4 @@
-###Design Thinking Project
+### Design Thinking Project
 
 On the 25th of October 2023, our group was assigned with a task to create a prototype for
 a design thinking project. After discussing what problems that exist in our society in this modern
