@@ -17,7 +17,7 @@ However, there are some things that did not go as planned. For starters, we did 
 I look forward to presenting our prototype later on and show how impactful it is to society. <3
 
 [![Design Thinking Project Report](http://img.youtube.com/vi/N6It7ssxl84/0.jpg)](https://www.youtube.com/watch?v=N6It7ssxl84 "SECP1513 | Group 7 Section 5 | Design Thinking Video")
-
+<p>Youtube Video</p>
 
 <p align=center>
 <a href="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Design%20Thinking%20Project/SECP1513-05%20Group%207%20Design%20Thinking%20Report-1.pdf">Link to our Design Thinking Report</a>
