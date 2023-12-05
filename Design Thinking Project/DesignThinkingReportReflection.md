@@ -11,7 +11,7 @@ their addiction towards smartphone usage called "Escape The Phone".
 <p align="center">
 <img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Design%20Thinking%20Project/discussionF2F.jpg" width="60%" height="60%" />
 </p>
-<p align="center">Disussion among group members</p>
+<p align="center">Discussion among group members</p>
 
 Through numerous discussions and brainstorming sessions whether it was online or face-to-face, I gained a lot throughout the period of making our prototype and report for Design Thinking Project. I contributed both in writing the project and organising the contents of it to make sure it is aligned with the given rubric and format. Good communication and collaboration is important to ensure smooth progress of the project.
 
