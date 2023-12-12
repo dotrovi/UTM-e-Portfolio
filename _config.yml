@@ -5,6 +5,6 @@ relative_links:
   collections: true
 include:
   - README.md
-  - Reflection.md
-  - IndustrialTalkReflection.md
-  - DesignThinkingReportReflection.md
+  - PC Assemble (Lab)/Reflection.md
+  - Industrial Talk (Assignment 1)/IndustrialTalkReflection.md
+  - Design Thinking Project/DesignThinkingReportReflection.md
