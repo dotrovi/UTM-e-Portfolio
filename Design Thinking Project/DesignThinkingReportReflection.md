@@ -40,8 +40,8 @@ Overall, the comments receieved is as follows:
 
 1. Uniqueness or difference when compared to similar products in the current market?
 > if just use existing features on phones (samsung & iphone), just got warning alerts
-> existing apps in stores only has the option to limit usage of certain apps
-> our app has option to also shut down the phone or turn off the screen for a limited amount of time (around 10 - 20 minutes) according to the user's preference
+>> existing apps in stores only has the option to limit usage of certain apps
+>>> our app has option to also shut down the phone or turn off the screen for a limited amount of time (around 10 - 20 minutes) according to the user's preference
 
 2. If got important matters on phone during shut down, such as messages from family or from workplace?
 > implement setting to either disable the shut down mechanics or shorten the duration when it shuts down
