@@ -15,3 +15,6 @@ All projects done for TIS - SECP1513 Section 05 will be stored here.
 </td>
 </tr>
 </table>
+
+
+[Link to a file]({{ site.baseurl }}{% link /assets/files/doc.pdf %})
