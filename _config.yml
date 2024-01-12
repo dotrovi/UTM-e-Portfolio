@@ -10,3 +10,16 @@ github_username:  dotrovi
 # Build settings
 markdown: kramdown
 permalink: /:year/:title:output_ext
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - README.md
+  - PC Assemble (Lab)
+  - Industrial Talk (Assignment 1)
+  - Design Thinking Project
