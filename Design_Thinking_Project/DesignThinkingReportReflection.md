@@ -10,7 +10,7 @@ their addiction towards smartphone usage called "Escape The Phone".
 
 <p align="center">
 <img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Design_Thinking_Project/discussionF2F.jpg" width="60%" height="60%" />
-![alt text](https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Design_Thinking_Project/discussionF2F.jpg?raw=true)
+![alt text](https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Design_Thinking_Project/discussionF2F.jpg)
 </p>
 <p align="center">Discussion among group members</p>
 
