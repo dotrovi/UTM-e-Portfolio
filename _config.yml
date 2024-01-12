@@ -8,3 +8,6 @@ include:
   - PC Assemble (Lab)/Reflection.md
   - Industrial Talk (Assignment 1)/IndustrialTalkReflection.md
   - Design Thinking Project/DesignThinkingReportReflection.md
+
+include_relative:
+ - PC Assemble (Lab)/Reflection.md
