@@ -17,4 +17,4 @@ All projects done for TIS - SECP1513 Section 05 will be stored here.
 </table>
 
 
-[Link to a file]({{ site.baseurl }}{% link /assets/files/doc.pdf %})
+[Link to a file]({{ site.baseurl }}{% link https://github.com/dotrovi/UTM-e-Portfolio/blob/main/UTMDigital%20(Virtual%20Talk%20%26%20Industrial%20Visit)/ReflectionUTMDigital.md %})
