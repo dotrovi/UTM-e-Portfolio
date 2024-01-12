@@ -9,7 +9,7 @@ utilising the design thinking process, we have made a product that can help peop
 their addiction towards smartphone usage called "Escape The Phone".
 
 <p align="center">
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Design%20Thinking%20Project/discussionF2F.jpg" width="60%" height="60%" />
+<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Design_Thinking_Project/discussionF2F.jpg" width="60%" height="60%" />
 </p>
 <p align="center">Discussion among group members</p>
 
@@ -27,7 +27,7 @@ I look forward to presenting our prototype later on and show how impactful it is
 <p align="center">Youtube Video</p>
 <br><br>
 <p align=center>
-<a href="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Design%20Thinking%20Project/SECP1513-05%20Group%207%20Design%20Thinking%20Report-1.pdf">Link to our Design Thinking Report</a>
+<a href="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Design_Thinking_Project/SECP1513-05%20Group%207%20Design%20Thinking%20Report-1.pdf">Link to our Design Thinking Report</a>
 </p>
 <br><br>
 
