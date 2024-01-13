@@ -23,4 +23,6 @@ All projects done for TIS - SECP1513 Section 05 will be stored here.
 
 [Industrial Talk 1]({{ site.baseurl }}{% link Industrial Talk (Assignment 1)/IndustrialTalkReflection.md %})
 
-[UTM Digital (Virtual Talk & Industrial Visit]({{ site.baseurl }}{% link UTMDigital (Virtual Talk & Industrial Visit)/ReflectionUTMDigital.md %})
+[UTM Digital (Virtual Talk & Industrial Visit)]({{ site.baseurl }}{% link UTMDigital (Virtual Talk & Industrial Visit)/ReflectionUTMDigital.md %})
+
+[Industrial Talk 2]({{ site.baseurl }}{% link Industrial Talk 2/IndustrialTalk2Reflection.md %})
