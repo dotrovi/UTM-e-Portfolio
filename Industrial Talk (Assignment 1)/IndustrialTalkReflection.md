@@ -11,9 +11,7 @@ On November 14th, 2023, I took part in an online industrial talk by Clarity Tech
 
 were the speakers of this talk, arranged by Dr. Muhammad Iqbal Tariq Idris.
 
-<p align="center">
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/webexIndustrialTalk.jpg" width="60%" height="60%" />
-</p>
+![image](<Photos/webexIndustrialTalk.jpg>)
 <p align="center">Promotional Poster for the Industrial Talk by UTM</p>
 
 ### CONTENTS OF THE TALK
@@ -24,21 +22,21 @@ and digital assets ecosystem available on Google Play and the App Store. They pr
 works. Their tech stack includes:
 
 <p align="left">
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/swiftImage.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/kotlinImage.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/laravel.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/vue.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/inertia.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/typescriptImag.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/sassImage.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/mySQLimage.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/redisImage.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/sqliteImage.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/MongoDBImage.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/UbuntuImage.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/nginxImage.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/DigitalOceanImage.png" width="30" height="30" border="10"/>
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Photos/cloudflareImage.png" width="30" height="30" border="10"/>
+<img src="Photos/swiftImage.png" width="30" height="30" border="10"/>
+<img src="Photos/kotlinImage.png" width="30" height="30" border="10"/>
+<img src="Photos/laravel.png" width="30" height="30" border="10"/>
+<img src="Photos/vue.png" width="30" height="30" border="10"/>
+<img src="Photos/inertia.png" width="30" height="30" border="10"/>
+<img src="Photos/typescriptImag.png" width="30" height="30" border="10"/>
+<img src="Photos/sassImage.png" width="30" height="30" border="10"/>
+<img src="Photos/mySQLimage.png" width="30" height="30" border="10"/>
+<img src="Photos/redisImage.png" width="30" height="30" border="10"/>
+<img src="Photos/sqliteImage.png" width="30" height="30" border="10"/>
+<img src="Photos/MongoDBImage.png" width="30" height="30" border="10"/>
+<img src="Photos/UbuntuImage.png" width="30" height="30" border="10"/>
+<img src="Photos/nginxImage.png" width="30" height="30" border="10"/>
+<img src="Photos/DigitalOceanImage.png" width="30" height="30" border="10"/>
+<img src="Photos/cloudflareImage.png" width="30" height="30" border="10"/>
 </p>
 
 The most important characteristics one should have especially when they want to be employed are
