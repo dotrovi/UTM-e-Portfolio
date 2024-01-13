@@ -79,5 +79,5 @@ in UTM.
 
 ## POSTER (ASSIGNMENT 1)
 <p align="center">
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%20(Assignment%201)/Poster%20Group%207%20Assignment%201.jpg" width="60%" height="60%" />
+<img src="Poster%20Group%207%20Assignment%201.jpg" width="60%" height="60%" />
 </p>
