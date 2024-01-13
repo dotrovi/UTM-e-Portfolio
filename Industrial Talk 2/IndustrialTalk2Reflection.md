@@ -1,7 +1,3 @@
-SPEAKER: QISTINA BATRISYIA BINTI AZMAN SHAH  @  QISTINA AZMAN
-OCCUPATION: ANALYTICS DELIVERY, AI OPERATION  @  CREDENCE ( POWERED BY TM )
-GRADUATE: BACHELOR OF COMPUTER SCIENCE (DATA ENGINEERING)
-
 On 28th December 2023, there was an industrial talk by Ms. Qistina Batrisyia Binti Azman Shah, currently working in
 Analytics Delivery, AI Operation at Credence, powered by Telekom Malaysia, and graduated from Universiti Teknologi 
 Malaysia (UTM) with Bachelor of Computer Science (Data Engineering).
@@ -22,12 +18,12 @@ Workplace culture is one of the interesting parts during her talk, where she tal
 
 - Open communication
 > Other departments know other departments
-> Easily communicate with management personnel
+>> Easily communicate with management personnel
 
 - Continuous learning and development
 > Opportunity to take a lot of certifications
-> Free e-learning
-> Learn from experienced peers
+>> Free e-learning
+>>> Learn from experienced peers
 
 - Empowerment and autonomy
 > Given trust when able to do jobs efficiently
@@ -39,4 +35,3 @@ I enjoyed the talk delivered by Ms. Qistina, however it would have been better i
 the talk, especially in other departments other than analytics.
 
 Based on the talk, our group have successfully made a report based on the contents of the talk.
-
