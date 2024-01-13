@@ -25,7 +25,7 @@ I look forward to presenting our prototype later on and show how impactful it is
 <p align="center">Youtube Video</p>
 <br><br>
 <p align=center>
-<a href="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Design_Thinking_Project/SECP1513-05%20Group%207%20Design%20Thinking%20Report-1.pdf">Link to our Design Thinking Report</a>
+<a href="https://drive.google.com/file/d/1ycKXhvP2AgIOYjO1V2LHSPlDGC7fZrjv/view">Link to our Design Thinking Report</a>
 </p>
 <br><br>
 
