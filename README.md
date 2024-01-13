@@ -2,6 +2,8 @@
 
 All projects done for TIS - SECP1513 Section 05 will be stored here.
 
+
+Github Links:
 <table>
 <tr>
 <td width="20%">
@@ -22,6 +24,8 @@ All projects done for TIS - SECP1513 Section 05 will be stored here.
 </tr>
 </table>
 
+
+Github Pages Links:
 
 [Design Thinking Project]({{ site.baseurl }}{% link Design_Thinking_Project/DesignThinkingReportReflection.md %})
 
