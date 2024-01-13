@@ -40,5 +40,4 @@ the talk, especially in other departments other than analytics.
 
 Based on the talk, our group have successfully made a report based on the contents of the talk.
 
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://drive.google.com/file/d/16WhlW9XEr-BnBlg8qI2ENvrqREYxjuN4/view?usp=sharing" width="500" height="375">
+<a href="https://drive.google.com/file/d/16WhlW9XEr-BnBlg8qI2ENvrqREYxjuN4/view">Link to our Report</a>
