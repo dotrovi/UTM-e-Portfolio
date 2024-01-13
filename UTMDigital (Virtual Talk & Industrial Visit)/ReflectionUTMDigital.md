@@ -12,7 +12,7 @@ On the 5th of December 2023, a virtual talk on UTMDigital was held online throug
 The contents of the talk includes UTM Digital Services, UTM Data Centre, UTM Network Architecture, UTM Wi-Fi, ICT Security Management, Project Management and System Development of Digital Innovation.
 
 <p align="center">
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/UTMDigital%20(Virtual%20Talk%20%26%20Industrial%20Visit)/utmdigitalvirtualtalk.jpg" width="60%" height="60%" />
+<img src="utmdigitalvirtualtalk.jpg" width="60%" height="60%" />
 </p>
 <p align="center">Promotional Poster for UTM Digital Virtual Talk by UTM</p>
 <br>
@@ -26,7 +26,7 @@ On the 6th of December 2023, Dr Azurah A SAMAD brought our class, TIS SECP1513 S
 We were introduced with the faculties of UTMDigital, including their open offices and UTM Digital Care.
 
 <p align="center">
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/UTMDigital%20(Virtual%20Talk%20%26%20Industrial%20Visit)/utmopenoffices.jpg" width="60%" height="60%" />
+<img src="utmopenoffices.jpg" width="60%" height="60%" />
 </p>
 <p align="center">UTM Open Office</p>
 <br>
@@ -34,7 +34,7 @@ We were introduced with the faculties of UTMDigital, including their open office
 Their open offices adapt google spaces offices that could fit 60 staff at once. They plan on to include more tables to accomodate about 20 to 25 more staff in this office. Workspaces, meeting rooms, discussion rooms and relaxation rooms are present in this open office which would contribute to a more productive environment for the staff.
 
 <p align="center">
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/UTMDigital%20(Virtual%20Talk%20%26%20Industrial%20Visit)/utmdigitalcare.jpg" width="60%" height="60%" />
+<img src="utmdigitalcare.jpg" width="60%" height="60%" />
 </p>
 <p align="center">UTM Digital Care Office</p>
 <br>
