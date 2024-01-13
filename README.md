@@ -5,7 +5,7 @@ All projects done for TIS - SECP1513 Section 05 will be stored here.
 <table>
 <tr>
 <td width="20%">
-<a href="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Design%20Thinking%20Project/DesignThinkingReportReflection.md">Design Thinking Project (Report & Video)</a>
+<a href="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Design_Thinking_Project/DesignThinkingReportReflection.md">Design Thinking Project (Report & Video)</a>
 </td>
 <td width="20%">
 <a href="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/PC%20Assemble%20(Lab)/Reflection.md">PC Assemble (Lab)</a>
