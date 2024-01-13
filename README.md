@@ -22,3 +22,5 @@ All projects done for TIS - SECP1513 Section 05 will be stored here.
 [PC Assemble]({{ site.baseurl }}{% link PC Assemble (Lab)/Reflection.md %})
 
 [Industrial Talk 1]({{ site.baseurl }}{% link Industrial Talk (Assignment 1)/IndustrialTalkReflection.md %})
+
+[UTM Digital (Virtual Talk & Industrial Visit]({{ site.baseurl }}{% link UTMDigital (Virtual Talk & Industrial Visit)/ReflectionUTMDigital.md %})
