@@ -17,4 +17,6 @@ All projects done for TIS - SECP1513 Section 05 will be stored here.
 </table>
 
 
-[Link to a post]({{ site.baseurl }}{% link Design_Thinking_Project/DesignThinkingReportReflection.md %})
+[Design Thinking Project]({{ site.baseurl }}{% link Design_Thinking_Project/DesignThinkingReportReflection.md %})
+
+[PC Assemble]({{ site.baseurl }}{% link PC Assemble (Lab)/Reflection.md %})
