@@ -1,6 +1,7 @@
+### PC ASSEMBLE (LAB)
+
 <html>
   <div align="center">
-    <h1>PC ASSEMBLE (LAB)</h1>
     <br><br>
     <p>On 1st November 2023, I had hands-on PC Maintenance class held at Makmal Invoasi (322-02) N28, Level 3A.</p>
     <p>During the said session, I learned a lot regarding the interior of a PC and the necessary steps to both</p>
