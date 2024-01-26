@@ -1,3 +1,5 @@
+### INDUSTRIAL TALK 2
+
 On 28th December 2023, there was an industrial talk by Ms. Qistina Batrisyia Binti Azman Shah, currently working in
 Analytics Delivery, AI Operation at Credence, powered by Telekom Malaysia, and graduated from Universiti Teknologi 
 Malaysia (UTM) with Bachelor of Computer Science (Data Engineering).
