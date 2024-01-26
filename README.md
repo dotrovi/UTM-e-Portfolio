@@ -21,6 +21,9 @@ Github Links:
 <td width="20%">
 <a href="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%202/IndustrialTalk2Reflection.md">Industrial Talk 2</a>
 </td>
+<td width="20%">
+<a href="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Newsletter/ReflectionAssignment4.md">Assignment 4</a>
+</td>
 </tr>
 </table>
 
@@ -36,3 +39,5 @@ Github Pages Links:
 [UTM Digital (Virtual Talk & Industrial Visit)]({{ site.baseurl }}{% link UTMDigital (Virtual Talk & Industrial Visit)/ReflectionUTMDigital.md %})
 
 [Industrial Talk 2]({{ site.baseurl }}{% link Industrial Talk 2/IndustrialTalk2Reflection.md %})
+
+[Industrial Talk 3]({{ site.baseurl }}{% link Newsletter/ReflectionAssignment4.md %})
