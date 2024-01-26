@@ -3,7 +3,7 @@
 All projects done for TIS - SECP1513 Section 05 will be stored here.
 
 
-Github Links:
+Github Repository Links:
 <table>
 <tr>
 <td width="16%">
@@ -22,7 +22,7 @@ Github Links:
 <a href="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Industrial%20Talk%202/IndustrialTalk2Reflection.md">Industrial Talk 2</a>
 </td>
 <td width="16%">
-<a href="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Newsletter/ReflectionAssignment4.md">Assignment 4</a>
+<a href="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/Newsletter/ReflectionAssignment4.md">Industrial Talk 3</a>
 </td>
 </tr>
 </table>
