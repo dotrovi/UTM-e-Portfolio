@@ -1,3 +1,5 @@
+### Industrial Talk 3
+
 On 14th January 2024, there was an online talk by Dr Seah Choon Sen titled Unleashing The Power Of Emerging Technologies for Business Growth in Urban Farming Solution, or I-Farm. Dr Seah who is currently an Assistant Professor at Universiti Tunku Abdul Rahman (UTAR) received his Doctorate in Information Technology from Universiti Tun Hussein Onn Malaysia (UTHM). In this talk, Dr Seah talks about one of their innovations, I-Farm which is an e-commerce marketplace that offers fresh vegetables for residents obtained from urban farms in residential areas.
 
 ![image](<Assignment4Talk.png>)
