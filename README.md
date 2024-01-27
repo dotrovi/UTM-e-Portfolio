@@ -4,7 +4,7 @@ All projects done for TIS - SECP1513 Section 05 will be stored here.
 
 
 
-<a href="https://github.com/dotrovi/UTM-e-Portfolio">Github Repository(Report & Video)</a> Links:
+<a href="https://github.com/dotrovi/UTM-e-Portfolio">Github Repository</a> Links:
 <table>
 <tr>
 <td width="16%">
