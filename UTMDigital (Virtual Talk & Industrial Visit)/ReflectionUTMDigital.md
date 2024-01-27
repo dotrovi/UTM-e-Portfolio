@@ -50,3 +50,5 @@ Next was the UTM Digital Care offices. Their main role in UTM Digital services i
 The last part of the visit was the Data Center. We were told not to take any pictures at all when inside since the whole operations inside is secretive. Nonetheless, it was fascinating looking at how they handle data for the entirety of UTM inside a server room, monitored through a custom room named NOC, or network operations center. Data Center in UTM is considered tier three.
 
 Overall, I was satisfied with the visit to UTMDigital. This experience is valuable and makes me more eager to finish my bachelor's degree with excellence and experience working in an environment similar to UTMDigital. I'd like to thank all the UTMDigital staff for their hospitality throughout the virtual talk and visit to UTMDigital.
+
+We have produced a video covering our visit to UTM Digital and the online talk, which can be accessed <a href="https://drive.google.com/file/d/1b1AOXlodejqZw1LEypilv7YbPJhb82tX/view?usp=sharing">here</a>.
