@@ -28,8 +28,7 @@ All projects done for TIS - SECP1513 Section 05 will be stored here.
 </tr>
 </table>
 
-
-Github Pages Links:
+<a href="https://dotrovi.github.io/UTM-e-Portfolio/">Github Pages</a> Links:
 
 [Design Thinking Project]({{ site.baseurl }}{% link Design_Thinking_Project/DesignThinkingReportReflection.md %})
 
